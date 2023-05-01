@@ -4,7 +4,7 @@ import telegram.ext  # telegram.ext is used for creating bots
 from googletrans import Translator  # google translate API
 
 # My Telegram API
-API_KEY = "5626079247:AAEQTf3qV-inlYruqLjVGcmBLUbSiw-N5zY"
+API_KEY = "X"
 
 # creating an instance of the translator
 translator = Translator()
